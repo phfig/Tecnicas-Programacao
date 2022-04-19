@@ -1,0 +1,24 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "Material das aulas Técnicas de Programação\r # Nome: Pedro Henrique Silva Figueiredo\r # RMG: 7225903276\r # Semestre: 3k",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phfig/Tecnicas-Programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Pedro Figueiredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phfig/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/phfig/Tecnicas-Programacao#readme"
+}
