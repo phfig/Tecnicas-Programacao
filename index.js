@@ -20,7 +20,10 @@ app.get('/apresentar',function(req,res){
     let soma = parseInt(param2) + parseInt(param3);
     res.send("Resultado: " + soma);
 });
+app.get('/cadastrar',function(req,res){
+    res.json(req.query);
+});
 
-app.listen(3000,function(){
-    console.log("Projeto iniciado na porta 3000")
+app.listen(4000,function(){
+    console.log("Projeto iniciado na porta 4000")
 });
